@@ -1,0 +1,466 @@
+50
+5 6
+Z.AAA
+.ZZAZ
+.A.AZ
+AZAZZ
+Z.ZAA
+....Z
+6 5
+AA.Z.Z
+AZA.AZ
+AAA.ZZ
+Z.Z.Z.
+ZAAAAZ
+5 6
+.ZAZ.
+Z.Z..
+Z..AZ
+AZ..Z
+.A..Z
+.ZZA.
+6 5
+..A..A
+ZZA.ZZ
+.Z.ZA.
+..AZZZ
+ZZZZZZ
+5 6
+Z.AZZ
+AAAA.
+AZZZA
+.ZAA.
+.A...
+AA...
+6 5
+...AZ.
+.ZAZAA
+ZA.Z.Z
+.AZAAZ
+AZ.ZZZ
+5 6
+Z.A..
+.ZA.A
+A..Z.
+Z.A.A
+.Z..A
+.ZAZA
+6 5
+AZZA.A
+AAZZZA
+.AZ.ZA
+....ZA
+AAZAZ.
+5 6
+AZAAA
+.AZA.
+.Z.AZ
+.Z.ZA
+.AZAZ
+ZAA.Z
+6 5
+AZZZA.
+..A...
+Z.ZAAZ
+AZZ.ZA
+..AAZ.
+2 15
+A.
+A.
+AZ
+A.
+.A
+Z.
+AA
+A.
+Z.
+.A
+ZZ
+AZ
+A.
+Z.
+..
+15 2
+ZZ..Z.ZZAZ.ZAAZ
+Z..ZA.Z.AZ.AZZZ
+2 15
+.A
+..
+AZ
+ZA
+ZA
+AA
+AA
+..
+AA
+..
+AZ
+Z.
+Z.
+ZZ
+AZ
+15 2
+ZAZ.ZZZA.Z.ZA.A
+A.AAZ.AZ.A.AZZZ
+2 15
+..
+AZ
+ZZ
+.Z
+..
+.A
+ZA
+.A
+ZA
+.A
+.A
+A.
+AZ
+Z.
+AZ
+15 2
+.A..ZAA.Z..A.AA
+..Z..A.Z.ZAZ.A.
+2 15
+A.
+.Z
+ZA
+AA
+.A
+.Z
+AZ
+ZZ
+.A
+.Z
+ZA
+A.
+ZZ
+ZA
+AZ
+15 2
+ZAA.ZZZ.ZA..A..
+Z.AZ........Z.Z
+2 15
+ZZ
+AZ
+..
+Z.
+Z.
+.A
+ZZ
+.Z
+ZZ
+A.
+Z.
+.A
+.Z
+ZZ
+.Z
+15 2
+ZZ.Z.ZA.A.Z.AZ.
+ZA..Z.Z.ZZAZ..Z
+1 30
+Z
+.
+.
+.
+.
+A
+Z
+A
+A
+Z
+.
+Z
+.
+A
+Z
+Z
+.
+.
+Z
+.
+Z
+.
+Z
+Z
+Z
+Z
+Z
+A
+A
+Z
+30 1
+AA...A.ZZ.AZZZA.ZAZ.ZZAZ.ZZZZZ
+1 30
+Z
+.
+.
+A
+Z
+A
+.
+.
+A
+A
+Z
+A
+.
+A
+A
+Z
+.
+Z
+Z
+Z
+Z
+.
+Z
+.
+.
+Z
+Z
+A
+Z
+A
+30 1
+.A.ZAZAAAAZ.AZAZAZ..A.A..A.Z..
+1 30
+.
+.
+A
+Z
+.
+A
+.
+.
+A
+Z
+A
+.
+A
+.
+.
+A
+A
+A
+A
+A
+Z
+Z
+Z
+A
+.
+A
+Z
+.
+Z
+Z
+30 1
+.ZA....ZAA..AA..ZAA.A.ZA.ZA.AA
+1 30
+Z
+Z
+Z
+A
+Z
+.
+.
+.
+A
+.
+Z
+Z
+.
+.
+.
+.
+Z
+A
+A
+Z
+A
+.
+A
+Z
+.
+Z
+Z
+A
+Z
+A
+30 1
+Z..ZZ.A.AZ.ZAAZZZZAAZ.Z.AZZZA.
+1 30
+.
+.
+Z
+A
+A
+Z
+.
+Z
+A
+A
+Z
+Z
+Z
+.
+Z
+.
+.
+A
+A
+.
+.
+.
+.
+Z
+A
+.
+.
+Z
+A
+A
+30 1
+Z..ZAZAZ.AAZAZZ.A..Z.Z...Z.A.Z
+3 10
+...
+.AZ
+...
+Z..
+AZ.
+ZZZ
+ZZZ
+ZAZ
+.ZZ
+ZAZ
+10 3
+AZ.ZA.Z.AZ
+.AA.ZZAAZA
+ZAAAAZAAZZ
+3 10
+.AZ
+Z.A
+.AZ
+A.A
+.A.
+ZZ.
+ZZA
+AZA
+.ZA
+A..
+10 3
+.AA..ZZ.ZA
+ZA..ZZ..AA
+.ZAAAZZAAZ
+3 10
+.A.
+AZ.
+..Z
+ZZA
+.Z.
+.AZ
+...
+..A
+Z.A
+AAZ
+10 3
+..ZZAZ.ZZA
+AAZ..A..AA
+ZA.ZA.AZA.
+3 10
+AAA
+Z..
+ZZA
+AZ.
+..Z
+.AZ
+ZZZ
+ZA.
+.AZ
+..Z
+10 3
+.Z..AZA...
+ZAZA..AZAZ
+...ZZA.Z.A
+3 10
+ZAA
+.ZZ
+...
+..A
+Z.A
+A.A
+ZAA
+.Z.
+..A
+.ZZ
+10 3
+ZZ.ZZZ.A.A
+A.AA...AZ.
+.AZZ.ZA...
+5 6
+ZZ.ZA
+..A..
+ZZ.AA
+AZZA.
+Z...Z
+Z.Z..
+6 5
+AZ..AZ
+AAAZAZ
+A.ZZ..
+.ZZZAA
+.Z.AAA
+5 6
+Z...Z
+A.Z.Z
+ZZZZA
+ZZ.AA
+AZ.A.
+.ZZZZ
+6 5
+Z.AA..
+A..ZZ.
+AAZZAZ
+.Z.AZZ
+.AZZAZ
+5 6
+Z.Z..
+AAA.A
+ZAAZZ
+Z.A.A
+ZZ.ZA
+.ZZZZ
+6 5
+Z....A
+...AZA
+AA..Z.
+Z..AZA
+AA.ZA.
+5 6
+A..ZA
+AZ.A.
+Z..AA
+ZZAZA
+AAZ.Z
+AAZ.Z
+6 5
+A..ZZZ
+.AAA.Z
+..Z..Z
+ZAA..Z
+.ZAA.A
+5 6
+A..Z.
+Z....
+...ZA
+Z.A.A
+.ZZAZ
+AZZ..
+6 5
+AZZ.Z.
+.ZZZ..
+ZZ...A
+ZZ.Z.A
+ZA.AZZ
